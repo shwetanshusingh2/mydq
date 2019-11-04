@@ -2,7 +2,7 @@ import json
 
 # import requests
 
-# cutiie iresh sona
+# cutiie sona
     return {
         "statusCode": 200,
         "body": json.dumps({
