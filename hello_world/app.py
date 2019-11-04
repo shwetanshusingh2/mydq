@@ -1,7 +1,6 @@
 import json
 
 # import requests
-print("hello world message")
 
 
     return {
